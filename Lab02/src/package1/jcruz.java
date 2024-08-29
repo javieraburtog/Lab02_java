@@ -8,4 +8,10 @@ public class jcruz {
 
     }
 
+    public static String newLine() {
+
+        return "Log newLine";
+
+    }
+
 }
