@@ -2,12 +2,10 @@
  
 /**
  * 
- * Autor: Mario Osorno
- * Dise±o Html: Alejandro Delgadillo
- * Creado: 22/04/2013
- * Modificado: 12/03/2019    Jossyl Zamora
- * Modificado: 29/08/2024    Jossyl Zamora
- * Versi?n: 1.0
+ * Autor: Jossyl Zamora
+ * Creado: 29/Agosto/2024
+ * Modificado: 
+ * Version: 1.0
  * 
  */
 
@@ -17,7 +15,7 @@ public class jzamora {
 
 	public static void main(String[] args) {
 		
-		System.out.println("JZAMORA ");
+		System.out.println("JZAMORA --");
 		
 	}
 
