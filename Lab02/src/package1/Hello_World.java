@@ -11,9 +11,16 @@ public class Hello_World {
 
 		System.out.println("Segundo commit");
 		
+			System.out.println("Cambio insertado, linea insertada  ----->");
+		
 		System.out.println("teccero commit ya con la rama 1");
 
 		System.out.println(jcruz.message());
+
+		System.out.println(jcruz.newLine());
+		
+		System.out.println("cuarto commit ya con la rama 1");
+
 		
 	}
 
