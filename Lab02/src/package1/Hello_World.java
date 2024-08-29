@@ -16,6 +16,8 @@ public class Hello_World {
 		System.out.println("teccero commit ya con la rama 1");
 
 		System.out.println(jcruz.message());
+
+		System.out.println(jcruz.newLine());
 		
 		System.out.println("cuarto commit ya con la rama 1");
 
